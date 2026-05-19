@@ -1,0 +1,15 @@
+{
+  "name": "tech-ease-after-50",
+  "description": "Friendly technology help for adults over 50",
+  "repository": "https://github.com/your-username/tech-ease-after-50",
+  "keywords": ["react", "vite", "express", "seniors", "tech-help"],
+  "env": {
+    "NODE_ENV": { "value": "production" }
+  },
+  "scripts": {
+    "postdeploy": "npm run build"
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ]
+}
