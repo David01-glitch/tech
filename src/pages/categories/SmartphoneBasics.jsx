@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/smartphone.svg';
+import img from '../../assets/images/categories/smartphone.jpg';
 
 const articles = [
   { title: 'Turning Your Phone On and Off',

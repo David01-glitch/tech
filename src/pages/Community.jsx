@@ -1,9 +1,9 @@
 import PageHeader from '../components/PageHeader.jsx';
-import margaret from '../assets/images/community/margaret.svg';
-import robert from '../assets/images/community/robert.svg';
-import linda from '../assets/images/community/linda.svg';
-import david from '../assets/images/community/david.svg';
-import susan from '../assets/images/community/susan.svg';
+import margaret from '../assets/images/community/margaret.jpg';
+import robert from '../assets/images/community/robert.jpg';
+import linda from '../assets/images/community/linda.jpg';
+import david from '../assets/images/community/david.jpg';
+import susan from '../assets/images/community/susan.jpg';
 
 const stories = [
   { img: margaret, name: 'Margaret, 68, Boston', text: 'I had given up on figuring out FaceTime until I read the step-by-step guide here. Now my grandchildren call me every Sunday at 4pm — without fail.' },

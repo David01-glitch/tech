@@ -3,19 +3,19 @@ import { useState } from 'react';
 import Expandable from '../components/Expandable.jsx';
 import { trackEvent } from '../utils/analytics.js';
 
-import hero from '../assets/images/hero/hero-main.svg';
-import cSmart from '../assets/images/categories/smartphone.svg';
-import cAI from '../assets/images/categories/ai-tools.svg';
-import cSafety from '../assets/images/categories/online-safety.svg';
-import cSocial from '../assets/images/categories/social-media.svg';
-import cTut from '../assets/images/categories/tutorials.svg';
-import cApps from '../assets/images/categories/apps.svg';
-import blog1 from '../assets/images/blog/blog-1.svg';
-import blog2 from '../assets/images/blog/blog-2.svg';
-import blog3 from '../assets/images/blog/blog-3.svg';
-import margaret from '../assets/images/community/margaret.svg';
-import robert from '../assets/images/community/robert.svg';
-import linda from '../assets/images/community/linda.svg';
+import hero from '../assets/images/hero/hero-main.jpg';
+import cSmart from '../assets/images/categories/smartphone.jpg';
+import cAI from '../assets/images/categories/ai-tools.jpg';
+import cSafety from '../assets/images/categories/online-safety.jpg';
+import cSocial from '../assets/images/categories/social-media.jpg';
+import cTut from '../assets/images/categories/tutorials.jpg';
+import cApps from '../assets/images/categories/apps.jpg';
+import blog1 from '../assets/images/blog/blog-1.jpg';
+import blog2 from '../assets/images/blog/blog-2.jpg';
+import blog3 from '../assets/images/blog/blog-3.jpg';
+import margaret from '../assets/images/community/margaret.jpg';
+import robert from '../assets/images/community/robert.jpg';
+import linda from '../assets/images/community/linda.jpg';
 
 const categories = [
   { img: cSmart, title: 'Smartphone Basics', desc: 'Learn how to use your iPhone or Android, step by step.', to: '/category/smartphone-basics' },

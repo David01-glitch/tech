@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/online-safety.svg';
+import img from '../../assets/images/categories/online-safety.jpg';
 
 const articles = [
   { title: 'Recognizing a Phishing Email',

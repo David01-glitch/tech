@@ -1,9 +1,9 @@
 import PageHeader from '../components/PageHeader.jsx';
 import Expandable from '../components/Expandable.jsx';
-import t1 from '../assets/images/tutorials/tutorial-1.svg';
-import t2 from '../assets/images/tutorials/tutorial-2.svg';
-import t3 from '../assets/images/tutorials/tutorial-3.svg';
-import t4 from '../assets/images/tutorials/tutorial-4.svg';
+import t1 from '../assets/images/tutorials/tutorial-1.jpg';
+import t2 from '../assets/images/tutorials/tutorial-2.jpg';
+import t3 from '../assets/images/tutorials/tutorial-3.jpg';
+import t4 from '../assets/images/tutorials/tutorial-4.jpg';
 
 const tuts = [
   { img: t1, title: 'Setting Up Wi-Fi at Home', time: '6 min',

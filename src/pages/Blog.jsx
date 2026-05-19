@@ -1,11 +1,11 @@
 import PageHeader from '../components/PageHeader.jsx';
 import Expandable from '../components/Expandable.jsx';
-import b1 from '../assets/images/blog/blog-1.svg';
-import b2 from '../assets/images/blog/blog-2.svg';
-import b3 from '../assets/images/blog/blog-3.svg';
-import b4 from '../assets/images/blog/blog-4.svg';
-import b5 from '../assets/images/blog/blog-5.svg';
-import b6 from '../assets/images/blog/blog-6.svg';
+import b1 from '../assets/images/blog/blog-1.jpg';
+import b2 from '../assets/images/blog/blog-2.jpg';
+import b3 from '../assets/images/blog/blog-3.jpg';
+import b4 from '../assets/images/blog/blog-4.jpg';
+import b5 from '../assets/images/blog/blog-5.jpg';
+import b6 from '../assets/images/blog/blog-6.jpg';
 
 const posts = [
   { img: b1, title: 'A Gentle Guide to Your First Smartphone', date: 'May 10, 2026', tag: 'Smartphone Basics',

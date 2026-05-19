@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/ai-tools.svg';
+import img from '../../assets/images/categories/ai-tools.jpg';
 
 const articles = [
   { title: 'What is ChatGPT, in Plain English?',

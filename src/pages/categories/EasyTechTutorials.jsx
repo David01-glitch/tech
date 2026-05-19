@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/tutorials.svg';
+import img from '../../assets/images/categories/tutorials.jpg';
 
 const articles = [
   { title: 'Connecting Bluetooth Headphones',

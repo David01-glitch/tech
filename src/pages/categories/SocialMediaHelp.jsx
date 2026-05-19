@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/social-media.svg';
+import img from '../../assets/images/categories/social-media.jpg';
 
 const articles = [
   { title: 'Facebook for Staying Close to Family',

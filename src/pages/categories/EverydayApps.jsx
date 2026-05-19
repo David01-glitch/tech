@@ -1,5 +1,5 @@
 import CategoryTemplate from '../../components/CategoryTemplate.jsx';
-import img from '../../assets/images/categories/apps.svg';
+import img from '../../assets/images/categories/apps.jpg';
 
 const articles = [
   { title: 'Banking Apps: Safer Than You Think',
